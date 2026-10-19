@@ -1,16 +1,3 @@
-## 🧮 Excel Modeling & Sensitivity Analysis
-
-While Tableau handled interactive visual storytelling and Python managed data engineering, **Excel** was utilized for supplementary executive scenario modeling and discount elasticity sensitivity testing.
-
-### What the Excel Model Demonstrates:
-* **What-If Scenario Modeling:** Built dynamic financial projection tables simulating the bottom-line impact of capping promotional discounts at 10% vs. 15% vs. 20%.
-* **Margin Sensitivity Calculations:** Evaluated how minor shifts in shipping turnaround durations (`Shipping Days`) correlate with net operational costs across different regional fulfillment centers.
-* **Executive Summary Tables:** Summarized aggregate sales, total profit, and average discount percentages into clean C-suite pivot views for quick stakeholder review.
-
-### Why Excel Matters in This Workflow:
-While BI dashboards are powerful for exploration, executives frequently request lightweight, editable spreadsheet models to test financial assumptions on the fly. This model bridges the gap between static BI outputs and active business decision-making.
-
-
 Order ID,Order Date,Ship Date,Ship Mode,Region,State,Category,Sub-Category,Sales,Quantity,Discount,Profit,Profit Margin Ratio,Shipping Days
 ORD-2026-1001,2026-08-03,2026-08-06,First Class,East,Texas,Office Supplies,Art,1173.94,8,0.5,-491.64,-0.4188,3
 ORD-2026-1002,2026-07-11,2026-07-15,Standard Class,South,Texas,Technology,Copiers,50.47,1,0.1,8.8,0.1744,4

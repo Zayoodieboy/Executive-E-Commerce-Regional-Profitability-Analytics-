@@ -43,17 +43,15 @@ The underlying dataset processed by Python and ingested into Tableau adheres to 
 
 ## 📈 Visualizations & Dashboard Explanations
 
-### 1. Regional Sales & Profit Overview (`regional_sales.png`)
-* **Where to add:** Save your exported sheet image as `regional_sales.png` in your repository folder.
-* **What this figure shows:** A hierarchical bar chart mapping total **Sales** volume grouped by geographic `Region` and `State`. The bars utilize a diverging net **Profit** color palette.
-* **Analyst Breakdown:** This view allows leadership to instantly differentiate high-margin top performers from margin-negative states where operational costs and heavy discounts consume all revenue.
-![Regional Sales Overview](regional_sales.png)
+### 1. Regional Sales & Profit Overview 
+<img width="453" height="153" alt="Screenshot 2026-10-19 191939" src="https://github.com/user-attachments/assets/d2f7382a-931e-4052-8abe-56d8fb2ded1f" />
 
-### 2. Executive E-Commerce Dashboard (`ecommerce_dashboard.png`)
-* **Where to add:** Save your exported dashboard image as `ecommerce_dashboard.png` in your repository folder.
-* **What this figure shows:** A multi-view C-suite dashboard combining geographic sales hierarchies with a transaction-level **Discount vs. Profit** scatter plot. It features cross-sheet interactivity.
+* **Analyst Breakdown:** This view allows leadership to instantly differentiate high-margin top performers from margin-negative states where operational costs and heavy discounts consume all revenue.
+
+### 2. Executive E-Commerce Dashboard 
+<img width="502" height="391" alt="Screenshot 2026-10-19 192004" src="https://github.com/user-attachments/assets/08ac0eec-50dd-4d2b-a33a-08b70d874cf2" />
+
 * **Analyst Breakdown:** The scatter plot proves the existence of a strict **20% discount tipping point**—demonstrating that promotional discounts exceeding 20% reliably destroy profitability and push transactions into net operating losses.
-![Executive Dashboard](ecommerce_dashboard.png)
 
 ---
 
